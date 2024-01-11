@@ -1,0 +1,13 @@
+{
+  "name": "nelsongr/public_html/328/hello",
+  "description": "My first Fat-free MVC project",
+  "authors": [
+    {
+      "name": "Lillian Nelson",
+      "email": "nelson.lillian@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
